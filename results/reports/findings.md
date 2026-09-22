@@ -42,7 +42,5 @@ All three subjects had a strong correlation with each other. However, reading an
 
 ### E. V5
 
-Question: How strongly are math and reading scores associated, and do students who completed the test‑preparation course have a different slope in the math–reading relationship than those who did not?
-
 Math and reading scores had a positive relationship, meaning that students with higher math scores also tended to have higher reading scores. Test prepartion did not seem to make much of a difference in the relationship between the two scores. Both the completed and none groups had a positive relationship, and their trend lines were pretty similar. This suggests that the relationship between math and reading scores was similar regardless of whether students completed the test-preparation course. It is important to note that the completed group had 358 students, while the none group had 642 students, so the two groups were not the same size. Overall, the test-preparation course did not seem to have a major effect on the relationship between math and reading scores in this dataset.
 
